@@ -1,3 +1,3 @@
-// const Employee = require('./lib/Employee');
+const initializeEmployee = require('./lib/Employee');
 
-// new Employee().initializeEmployee();
+initializeEmployee();
