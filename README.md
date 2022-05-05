@@ -59,4 +59,8 @@ THEN I exit the application, and the HTML is generated
 ### My Profile Information
  
  CameronSickler
+ 
+### Resources
+ 
+ Bootstrap      NPM     Node.js
 
