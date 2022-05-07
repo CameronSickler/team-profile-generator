@@ -48,13 +48,13 @@ THEN I exit the application, and the HTML is generated
  
 ===============================
  
-### Screenshots
- 
- INSERT HERE
-
 ### Walkthrough Video Link
 
- INSERT HERE
+ Part 1 0f 2
+ https://www.youtube.com/watch?v=Ww5gReuPY54
+
+ Part 2 of 2
+ https://www.youtube.com/watch?v=D5H4KZwrnqg
 
 ### My Profile Information
  
